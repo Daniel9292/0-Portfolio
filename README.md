@@ -21,23 +21,23 @@ Certified Software Tester with over 2 years of commercial experience in banking 
 * Confluence
 
 ## Courses & certificates
-###Certification units
-* SAFe 4 Practitioner (22.06.2019) _ceritificate_
-* ISTQB Fundation Level (version 2018) (19.09.2019) _ceritificate_
-* qTest Specialist Level 1 (10.05.2020) _ceritificate_
+### Certification institutions & companies
+* SAFe 4 Practitioner (22.06.2019) _certificate_
+* ISTQB Fundation Level (version 2018) (19.09.2019) _certificate_
+* qTest Specialist Level 1 (10.05.2020) _certificate_
 
-###External
+### External
 * SQL Training I - basic (by Schibsted, Gdańsk) (26.06.2018)
 * Selenium-Jupiter: The next level of web testing (29.10.2019)
 
-###Internal
+### Internal
 * Python Training - level basic (26.07.2018)
 * Python Training - level advanced (17.09.2019)
 * Robot Framework test automation training (28-29.05.2018)
 
-###Udemy courses
-* C# Basics for Beginners: Learn C# Fundamentals by Coding (18.06.2019) _ceritificate_
-* A/B Testing and Experimentation for Beginners (1.03.2020) _ceritificate_
+### Udemy & online courses
+* C# Basics for Beginners: Learn C# Fundamentals by Coding (18.06.2019) _certificate_
+* A/B Testing and Experimentation for Beginners (1.03.2020) _certificate_
 
 ## Groups & societies I'm following
 * [Testowanie oprogramowania - Facebook group](https://www.facebook.com/groups/TestowanieOprogramowania/)
