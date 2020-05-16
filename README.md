@@ -27,7 +27,7 @@ Certified Software Tester with over 2 years of commercial experience in banking 
 * qTest Specialist Level 1 (10.05.2020) _certificate_
 
 ### External
-* SQL Training I - basic (by Schibsted, Gdańsk) (26.06.2018)
+* SQL Training I - basic (26.06.2018)
 * Selenium-Jupiter: The next level of web testing (29.10.2019)
 
 ### Internal
