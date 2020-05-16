@@ -16,6 +16,7 @@ Certified Software Tester with over 2 years of commercial experience in banking 
 * ALM's: JIRA, HP ALM
 * Version control: Bitbucket, Github, TortoiseGit
 * CI/CD: Bamboo
+* Other: Chrome DevTools
 
 ### Other tools
 * Confluence
