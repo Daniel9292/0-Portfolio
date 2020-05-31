@@ -29,6 +29,7 @@ Certified Software Tester with over 2 years of commercial experience in banking 
 
 ### External
 * SQL Training I - basic (26.06.2018)
+* 'QA has power' - workshop - Selenium + Python (23.09.2019) _certificate_
 * Selenium-Jupiter: The next level of web testing (29.10.2019)
 
 ### Internal
