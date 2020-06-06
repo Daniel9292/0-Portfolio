@@ -60,8 +60,9 @@ Certified Software Tester with over 2 years of commercial experience in banking 
 * TrojQA: 36. spotkanie Trójmiejskiej Społeczności Testerskiej (22.10.2018)
 * PyCloud #3 (powered by Cloud, Python & Solwit) (16.04.19)
 * tech.3camp - testowanie oprogramowania (14.05.2019)
-* JS Tech Talk (5.06.2019)
+* JS Tech Talk (25.06.2019)
 * CoderSii powered by Sii Polska: Testowanie + Python (8.10.2019)
+* #2 Spotkanie Gdańsk Embedded Meetup (5.11.2019)
 * Aspire Tech Universe. Chapter 1: .NET (21.11.2019)
 
 
