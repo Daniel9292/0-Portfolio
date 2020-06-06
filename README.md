@@ -5,11 +5,11 @@ Certified Software Tester with over 2 years of commercial experience in banking 
 
 ## Tech skills
 * Software testing
-* Languages: Javascript, Typescript, C# (in context of test automation)
+* Languages: JavaScript, TypeScript, C# (in context of test automation)
 * SQL (MS SQL, Oracle Database)
 
 ## Tools
-* Frameworks: Testcafe, Jest, xUnit
+* Frameworks: TestCafe, Jest, xUnit
 * IDE: Visual Studio 2019
 * Source-code editors: Visual Studio Code, Atom
 * Database: Microsoft SQL Server Management Studio 17, Oracle SQL Developer
