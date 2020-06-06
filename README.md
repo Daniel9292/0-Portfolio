@@ -9,7 +9,7 @@ Certified Software Tester with over 2 years of commercial experience in banking 
 * SQL (MS SQL, Oracle Database)
 
 ## Tools
-* Frameworks: TestCafe, Jest, xUnit
+* Frameworks: TestCafe, Jest, xUnit, SpecFlow
 * IDE: Visual Studio 2019
 * Source-code editors: Visual Studio Code, Atom
 * Database: Microsoft SQL Server Management Studio 17, Oracle SQL Developer
