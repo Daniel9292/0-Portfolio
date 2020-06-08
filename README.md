@@ -5,7 +5,7 @@ Certified Software Tester with over 2 years of commercial experience in banking 
 
 ## Tech skills
 * Software testing
-* Languages: JavaScript, TypeScript, C# (in context of test automation)
+* Languages: JavaScript, TypeScript, C# (in context of test automation), Python
 * SQL (MS SQL, Oracle Database)
 
 ## Tools
