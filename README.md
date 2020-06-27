@@ -40,6 +40,15 @@ Certified Software Tester with over 2 years of commercial experience in banking 
 ### Udemy & online courses
 * C# Basics for Beginners: Learn C# Fundamentals by Coding (18.06.2019) _certificate_
 * A/B Testing and Experimentation for Beginners (1.03.2020) _certificate_
+* Python for Beginners: Learn Python Programming (Python 3) (13.06.2020) _certificate_
+
+In progress:
+* Understanding TypeScript - 2020 Edition
+* JavaScript Basics for Beginners
+* 2020 Complete Python Bootcamp: From zero to hero in Python
+* C# Intermediate: Classes, Interfaces and OOP
+* Unit Testing for C# Developers
+* Unit Testing .Net Core Applications with xUnit .net & MOQ
 
 ## Groups & societies I'm following
 * [Testowanie oprogramowania - Facebook group](https://www.facebook.com/groups/TestowanieOprogramowania/)
@@ -64,5 +73,3 @@ Certified Software Tester with over 2 years of commercial experience in banking 
 * CoderSii powered by Sii Polska: Testowanie + Python (8.10.2019)
 * #2 Spotkanie Gdańsk Embedded Meetup (5.11.2019)
 * Aspire Tech Universe. Chapter 1: .NET (21.11.2019)
-
-
