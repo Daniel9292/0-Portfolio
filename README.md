@@ -73,3 +73,4 @@ In progress:
 * CoderSii powered by Sii Polska: Testowanie + Python (8.10.2019)
 * #2 Spotkanie Gdańsk Embedded Meetup (5.11.2019)
 * Aspire Tech Universe. Chapter 1: .NET (21.11.2019)
+* tech.3camp - Python (14.07.2020)
