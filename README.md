@@ -54,13 +54,13 @@ Certified Software Tester with 3.5 years of commercial experience, mainly in ban
 * C# Basics for Beginners: Learn C# Fundamentals by Coding (18.06.2019) _certificate_
 
 ## Groups & societies I'm following
-# Testing
+### Testing
 * [Testowanie oprogramowania - Facebook group](https://www.facebook.com/groups/TestowanieOprogramowania/)
 * [testerzy.pl -  Facebook group](https://www.facebook.com/testerzy/)
 * [Trójmiejska Grupa Testerska](https://www.facebook.com/groups/1499629203641993)
 * [Test Automation](https://www.linkedin.com/groups/86204/)
 
-# Test frameworks & tools
+### Test frameworks & tools
 * [DevExpress TestCafe Community](https://www.linkedin.com/groups/13862207/)
 * [Cypress.io](https://www.linkedin.com/company/cypress.io/)
 * [Cypress Automation Test Group](https://www.linkedin.com/groups/12276472/)
@@ -68,17 +68,17 @@ Certified Software Tester with 3.5 years of commercial experience, mainly in ban
 * [Selenium C#](https://www.linkedin.com/groups/4616137/)
 * [Postman](https://www.linkedin.com/company/postman-platform/)
 
-# Languages
+### Languages
 * [Python Poland](https://www.facebook.com/groups/pythonpl/)
 * [Javascript](https://www.linkedin.com/groups/121615/)
 * [Typescript](https://www.linkedin.com/groups/4671277/)
 
-# Security
+### Security
 * [Sekurak.pl](https://sekurak.pl/)
 * [Niebezpiecznik.pl](https://niebezpiecznik.pl/)
 * [ZaufanaTrzeciaStrona.pl](https://www.linkedin.com/company/zaufanatrzeciastrona.pl/)
 
-# Other
+### Other
 * [Tech3camp](https://www.linkedin.com/company/3camp/)
 
 ## Conferences
