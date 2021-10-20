@@ -80,6 +80,7 @@ Certified Software Tester with 3.5 years of commercial experience, mainly in ban
 
 ### Other
 * [Tech3camp](https://www.linkedin.com/company/3camp/)
+* [Oh My Dev](https://ohmydev.pl/)
 
 ## Conferences
 * Testwarez 2021 (14-15.10.2021)
