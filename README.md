@@ -82,7 +82,8 @@ Certified Software Tester with 3.5 years of commercial experience, mainly in ban
 * [Tech3camp](https://www.linkedin.com/company/3camp/)
 * [Oh My Dev](https://ohmydev.pl/)
 
-## Conferences
+## Conferences I attended:
+* Test Dive 2021 (21.10.2021)
 * Testwarez 2021 (14-15.10.2021)
 * Jetbrains .NET Days online (11-12.05.2021)
 * DevConf.cz 2021 (18-20.02.2021)
