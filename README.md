@@ -26,6 +26,8 @@ Certified Software Tester with 3.5 years of commercial experience, mainly in ban
 
 ## Courses & certificates
 ### Certification institutions & companies
+* Exam DP-900: Microsoft Azure Data Fundamentals (16.01.2022) _certificate_
+* Exam AI-900: Microsoft Azure AI Fundamentals (8.01.2022) _certificate_
 * Exam 98-381: Introduction to Programming Using Python (11.04.2021) _certificate_
 * Exam 98-382: Introduction to Programming Using JavaScript (29.12.2020) _certificate_
 * ISTQB Fundation Level (version 2018) (19.09.2019) _certificate_
