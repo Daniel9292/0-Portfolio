@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About me
-Certified Software Tester with 3.5 years of commercial experience, mainly in banking industry software testing, both frontend and backend. Working in Scrum team and following Agile rules. I'm oriented for further development as Test Automation Engineer / QA Engineer. By learning and gathering knowledge from many IT areas, I would like to become a cross-functional IT Specialist.
+Certified Software Tester with 4 years of commercial experience, mainly in banking industry software testing, both frontend and backend. Working in Scrum team and following Agile rules. I'm oriented for further development as Test Automation Engineer / QA Engineer. By learning and gathering knowledge from many IT areas, I would like to become a cross-functional IT Specialist.
 
 ## Tech skills
 * Software testing
@@ -16,7 +16,7 @@ Certified Software Tester with 3.5 years of commercial experience, mainly in ban
 * Database: Microsoft SQL Server Management Studio 17, Oracle SQL Developer
 * ALM's: JIRA (+Xray), HP ALM
 * Version control & tools: Git - Bitbucket, Github, TortoiseGit
-* CI/CD: Bamboo, Azure DevOps
+* CI/CD: Bamboo, Azure DevOps, TeamCity
 * REST API: Swagger, Postman
 * OS: Windows 10, Linux (Ubuntu, Fedora)
 * Other: Chrome DevTools
@@ -26,6 +26,8 @@ Certified Software Tester with 3.5 years of commercial experience, mainly in ban
 
 ## Courses & certificates
 ### Certification institutions & companies
+* Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals (27.02.2022) _certificate_
+* Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions (6.02.2022)
 * Exam DP-900: Microsoft Azure Data Fundamentals (16.01.2022) _certificate_
 * Exam AI-900: Microsoft Azure AI Fundamentals (8.01.2022) _certificate_
 * Exam 98-381: Introduction to Programming Using Python (11.04.2021) _certificate_
