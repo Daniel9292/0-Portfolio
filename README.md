@@ -47,6 +47,7 @@ Certified Software Tester with 4 years of commercial experience, mainly in banki
 * Robot Framework test automation training (28-29.05.2018)
 
 ### Udemy & online courses
+* SpecFlow Tutorial (26.03.2022) _certificate_
 * Cypress test automation for people in a hurry (18.04.2021) _certificate_
 * Introduction to Typescript Development (05.04.2021) _certificate_
 * XPath locators for Selenium (21.03.2021) _certificate_
@@ -87,6 +88,7 @@ Certified Software Tester with 4 years of commercial experience, mainly in banki
 * [Oh My Dev](https://ohmydev.pl/)
 
 ## Conferences I attended:
+* dev.js Summit 2022 (28.04.2022)
 * Test Dive 2021 (21.10.2021)
 * Testwarez 2021 (14-15.10.2021)
 * Jetbrains .NET Days online (11-12.05.2021)
