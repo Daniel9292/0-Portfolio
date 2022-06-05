@@ -26,6 +26,8 @@ Certified Software Tester with 4 years of commercial experience, mainly in banki
 
 ## Courses & certificates
 ### Certification institutions & companies
+* Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM) (5.06.2022) _certificate_
+* Exam PL-900: Microsoft Power Platform Fundamentals (4.06.2022) _certificate_
 * Exam AZ-900: Microsoft Azure Fundamentals (29.05.2022) _certificate_
 * Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals (27.02.2022) _certificate_
 * Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions (6.02.2022)
