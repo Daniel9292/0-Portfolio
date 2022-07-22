@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About me
-Certified Software Tester with 4 years of commercial experience, mainly in banking industry software testing, both frontend and backend. Working in Scrum team and following Agile rules. I'm oriented for further development as Test Automation Engineer / QA Engineer. By learning and gathering knowledge from many IT areas, I would like to become a cross-functional IT Specialist.
+Certified Software Tester with over 4 years of commercial experience, mainly in banking industry software testing, both frontend and backend. Working in Scrum team and following Agile rules. I'm oriented for further development as Test Automation Engineer / QA Engineer. By learning and gathering knowledge from many IT areas, I would like to become a cross-functional IT Specialist.
 
 ## Tech skills
 * Software testing
@@ -45,8 +45,9 @@ Certified Software Tester with 4 years of commercial experience, mainly in banki
 * SQL Training I - basic (26.06.2018)
 
 ### Internal courses
-* Python Training - level basic (26.07.2018)
+* Testy wydajnościowe - Jmeter (13-14.06.2022)
 * Python Training - level advanced (17.09.2019)
+* Python Training - level basic (26.07.2018)
 * Robot Framework test automation training (28-29.05.2018)
 
 ### Udemy & online courses
@@ -104,6 +105,7 @@ Certified Software Tester with 4 years of commercial experience, mainly in banki
 * 4Developers Gdańsk Edition (25.09.2018)
 
 ## Meetup's and other events I attended:
+* Tech3camp - Testy (7.06.2022)
 * TrojQA #51 (11.05.2021)
 * Tech3camp .NET (29.04.2021)
 * Microsoft Azure - wstęp do świata usług chmurowych (15.04.2021)
