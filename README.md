@@ -92,6 +92,7 @@ Certified Software Tester with over 4 years of commercial experience, mainly in 
 * [Oh My Dev](https://ohmydev.pl/)
 
 ## Conferences I attended:
+* Infoshare 2024 (22-23.05.2024)
 * dev.js Summit 2022 (28.04.2022)
 * Test Dive 2021 (21.10.2021)
 * Testwarez 2021 (14-15.10.2021)
@@ -105,6 +106,7 @@ Certified Software Tester with over 4 years of commercial experience, mainly in 
 * 4Developers Gdańsk Edition (25.09.2018)
 
 ## Meetup's and other events I attended:
+* Tech3camp - Testy (10.04.2024)
 * Tech3camp - Testy (7.06.2022)
 * TrojQA #51 (11.05.2021)
 * Tech3camp .NET (29.04.2021)
