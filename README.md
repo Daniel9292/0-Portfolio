@@ -1,31 +1,32 @@
 # Portfolio
 
 ## About me
-Certified Software Tester with over 4 years of commercial experience, mainly in banking industry software testing, both frontend and backend. Working in Scrum team and following Agile rules. I'm oriented for further development as Test Automation Engineer / QA Engineer. By learning and gathering knowledge from many IT areas, I would like to become a cross-functional IT Specialist.
+Certified Software Tester with over 6 years of commercial experience, testing both frontend and backend. Working in Scrum team and following Agile rules. I'm oriented for further development as Test Automation Engineer / QA Engineer. By learning and gathering knowledge from many IT areas, I would like to become a cross-functional IT Specialist.
 
 ## Tech skills
 * Software testing
 * Languages: JavaScript, TypeScript, C#, Python
-* SQL (MS SQL, Oracle Database)
+* SQL (PostgreSQL, MQL, MS SQL, PL/SQL)
 * Bash
 
 ## Tools
-* Frameworks: TestCafe, Cucumber, Selenium, Specflow, Jest, xUnit, Pytest
+* Frameworks: Playwright, Cypress, k6, TestCafe, Cucumber, Selenium, Specflow, Jest, xUnit, Pytest
 * IDE: Visual Studio 2019, IntelliJ
 * Source-code editors: Visual Studio Code, Atom
-* Database: Microsoft SQL Server Management Studio 17, Oracle SQL Developer
-* ALM's: JIRA (+Xray), HP ALM
+* Database: Microsoft SQL Server Management Studio 17, Oracle SQL Developer, pgAdmin, Studio 3T
+* ALM's: Azure DevOps, JIRA (+Xray), HP ALM
 * Version control & tools: Git - Bitbucket, Github, TortoiseGit
 * CI/CD: Bamboo, Azure DevOps, TeamCity
 * REST API: Swagger, Postman
-* OS: Windows 10, Linux (Ubuntu, Fedora)
-* Other: Chrome DevTools
+* OS: Windows 10, Windows 11, Linux (Ubuntu, Fedora)
+* Other: Google Cloud Platform, Chrome DevTools
 
 ### Other tools
 * Confluence
 
 ## Courses & certificates
 ### Certification institutions & companies
+* Exam PL-100: Microsoft Power Platform App Maker Associate (5.02.2023) _certificate_
 * Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM) (5.06.2022) _certificate_
 * Exam PL-900: Microsoft Power Platform Fundamentals (4.06.2022) _certificate_
 * Exam AZ-900: Microsoft Azure Fundamentals (29.05.2022) _certificate_
