@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About me
-Certified Software Tester with over 6 years of commercial experience, testing both frontend and backend. Working in Scrum team and following Agile rules. I'm oriented for further development as Test Automation Engineer / QA Engineer. By learning and gathering knowledge from many IT areas, I would like to become a cross-functional IT Specialist.
+Certified Software Tester with over 7 years of commercial experience, testing both frontend and backend. Working in Scrum team and following Agile rules. I'm oriented for further development as Test Automation Engineer / QA Engineer. By learning and gathering knowledge from many IT areas, I would like to become a cross-functional IT Specialist.
 
 ## Tech skills
 * Software testing
@@ -26,6 +26,7 @@ Certified Software Tester with over 6 years of commercial experience, testing bo
 
 ## Courses & certificates
 ### Certification institutions & companies
+* Exam AI-102: Microsoft Certified: Azure AI Engineer Associate (13.04.2025) _certificate_
 * Exam PL-100: Microsoft Power Platform App Maker Associate (5.02.2023) _certificate_
 * Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM) (5.06.2022) _certificate_
 * Exam PL-900: Microsoft Power Platform Fundamentals (4.06.2022) _certificate_
@@ -107,6 +108,7 @@ Certified Software Tester with over 6 years of commercial experience, testing bo
 * 4Developers Gdańsk Edition (25.09.2018)
 
 ## Meetup's and other events I attended:
+* #32 Spotkanie Trójmiejskiej Grupy Testerskiej (12.02.2025)
 * Tech3camp - Testy (10.04.2024)
 * Tech3camp - Testy (7.06.2022)
 * TrojQA #51 (11.05.2021)
