@@ -94,6 +94,7 @@ Certified Software Tester with over 7 years of commercial experience, testing bo
 * [Oh My Dev](https://ohmydev.pl/)
 
 ## Conferences I attended:
+* Infoshare 2025 (27-28.05.2025)
 * Infoshare 2024 (22-23.05.2024)
 * dev.js Summit 2022 (28.04.2022)
 * Test Dive 2021 (21.10.2021)
