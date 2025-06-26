@@ -109,6 +109,7 @@ Certified Software Tester with over 7 years of commercial experience, testing bo
 * 4Developers Gdańsk Edition (25.09.2018)
 
 ## Meetup's and other events I attended:
+* Dynamic Talks - Solving Real QA Pains with Playwright Tracing (25.06.2025)
 * #32 Spotkanie Trójmiejskiej Grupy Testerskiej (12.02.2025)
 * Tech3camp - Testy (10.04.2024)
 * Tech3camp - Testy (7.06.2022)
