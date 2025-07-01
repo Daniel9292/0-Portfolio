@@ -26,6 +26,8 @@ Certified Software Tester with over 7 years of commercial experience, testing bo
 
 ## Courses & certificates
 ### Certification institutions & companies
+* Google Associate Cloud Engineer (30.06.2025) _certificate_
+* Google Associate Data Practitioner (28.06.2025) _certificate_
 * Exam AI-102: Microsoft Certified: Azure AI Engineer Associate (13.04.2025) _certificate_
 * Exam PL-100: Microsoft Power Platform App Maker Associate (5.02.2023) _certificate_
 * Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM) (5.06.2022) _certificate_
