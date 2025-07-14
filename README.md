@@ -97,6 +97,7 @@ Certified Software Tester with over 7 years of commercial experience, testing bo
 
 ## Conferences I attended:
 * Infoshare 2025 (27-28.05.2025)
+* Dev# 2024 (10.10.2024)
 * Infoshare 2024 (22-23.05.2024)
 * dev.js Summit 2022 (28.04.2022)
 * Test Dive 2021 (21.10.2021)
