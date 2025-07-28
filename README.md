@@ -5,24 +5,32 @@ Certified Software Tester with over 7 years of commercial experience, testing bo
 
 ## Tech skills
 * Software testing
-* Languages: JavaScript, TypeScript, C#, Python
-* SQL (PostgreSQL, MQL, MS SQL, PL/SQL)
-* Bash
+* Languages: JavaScript, TypeScript, Python (currently used), C# (used in the past)
+* SQL (PostgreSQL)
+* MQL
+* Bash (used in the past)
 
-## Tools
-* Frameworks: Playwright, Cypress, k6, TestCafe, Cucumber, Selenium, Specflow, Jest, xUnit, Pytest
-* IDE: Visual Studio 2019, IntelliJ
-* Source-code editors: Visual Studio Code, Atom
-* Database: Microsoft SQL Server Management Studio 17, Oracle SQL Developer, pgAdmin, Studio 3T
-* ALM's: Azure DevOps, JIRA (+Xray), HP ALM
-* Version control & tools: Git - Bitbucket, Github, TortoiseGit
-* CI/CD: Bamboo, Azure DevOps, TeamCity
+## Tools### 
+### Recently used tools:
+* Frameworks: Playwright, k6, Pytest
+* Source-code editors: Visual Studio Code
+* Database: pgAdmin, MongoDB Compass
+* ALM's: Azure DevOps
+* CI/CD: Azure DevOps
 * REST API: Swagger, Postman
-* OS: Windows 10, Windows 11, Linux (Ubuntu, Fedora)
-* Other: Google Cloud Platform, Chrome DevTools
+* OS: Windows 11
+* Cloud: Google Cloud Platform
+* Other: Chrome DevTools, Confluence
 
-### Other tools
-* Confluence
+### Tools used in the past:
+* Frameworks: Cypress, TestCafe, Cucumber, Selenium, Specflow, Jest, xUnit
+* IDE: Visual Studio 2019, IntelliJ
+* Source-code editors: Atom
+* Database: Microsoft SQL Server Management Studio 17, Oracle SQL Developer, Studio 3T
+* ALM's: JIRA (+Xray), HP ALM
+* Version control & tools: Git - Bitbucket, Github, TortoiseGit
+* CI/CD: Bamboo, TeamCity
+* OS: Windows 10, Linux (Ubuntu, Fedora)
 
 ## Courses & certificates
 ### Certification institutions & companies
@@ -44,6 +52,7 @@ Certified Software Tester with over 7 years of commercial experience, testing bo
 * SAFe 4 Practitioner (22.06.2019) _certificate_
 
 ### External courses
+* Profession: Pentester. Plus a review of interesting vulnerabilities discovered in Polish companies (24.07.25) _certificate_
 * Selenium-Jupiter: The next level of web testing (29.10.2019)
 * 'QA has power' - workshop - Selenium + Python (23.09.2019) _certificate_
 * SQL Training I - basic (26.06.2018)
