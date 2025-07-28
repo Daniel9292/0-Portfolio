@@ -10,7 +10,7 @@ Certified Software Tester with over 7 years of commercial experience, testing bo
 * MQL
 * Bash (used in the past)
 
-## Tools### 
+## Tools
 ### Recently used tools:
 * Frameworks: Playwright, k6, Pytest
 * Source-code editors: Visual Studio Code
