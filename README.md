@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About me
-Certified Software Tester with over 7 years of commercial experience, testing both frontend and backend. Working in Scrum team and following Agile rules. I'm oriented for further development as Test Automation Engineer / QA Engineer. By learning and gathering knowledge from many IT areas, I would like to become a cross-functional IT Specialist.
+Certified Software Tester with nearly 8 years of commercial experience, testing both frontend and backend. Working in Scrum team and following Agile rules. I'm oriented for further development as Test Automation Engineer / QA Engineer. By learning and gathering knowledge from many IT areas, I would like to become a cross-functional IT Specialist.
 
 ## Tech skills
 * Software testing
@@ -52,7 +52,7 @@ Certified Software Tester with over 7 years of commercial experience, testing bo
 * SAFe 4 Practitioner (22.06.2019) _certificate_
 
 ### External courses
-* Profession: Pentester. Plus a review of interesting vulnerabilities discovered in Polish companies (24.07.25) _certificate_
+* Profession: Pentester. Plus a review of interesting vulnerabilities discovered in Polish companies (24.07.2025) _certificate_
 * Selenium-Jupiter: The next level of web testing (29.10.2019)
 * 'QA has power' - workshop - Selenium + Python (23.09.2019) _certificate_
 * SQL Training I - basic (26.06.2018)
@@ -121,6 +121,7 @@ Certified Software Tester with over 7 years of commercial experience, testing bo
 * 4Developers Gdańsk Edition (25.09.2018)
 
 ## Meetup's and other events I attended:
+* BugHuntFest (online) (03-12.02.2026)
 * Dynamic Talks - Solving Real QA Pains with Playwright Tracing (25.06.2025)
 * #32 Spotkanie Trójmiejskiej Grupy Testerskiej (12.02.2025)
 * Tech3camp - Testy (10.04.2024)
