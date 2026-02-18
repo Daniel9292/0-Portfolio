@@ -12,7 +12,7 @@ Certified Software Tester with nearly 8 years of commercial experience, testing 
 
 ## Tools
 ### Recently used tools:
-* Frameworks: Playwright, k6, Pytest
+* Frameworks: Playwright, k6, Pytest, xUnit
 * Source-code editors: Visual Studio Code
 * Database: pgAdmin, MongoDB Compass
 * ALM's: Azure DevOps
@@ -24,7 +24,7 @@ Certified Software Tester with nearly 8 years of commercial experience, testing 
 * Other: Chrome DevTools, Confluence, SonarQube
 
 ### Tools used in the past:
-* Frameworks: Cypress, TestCafe, Cucumber, Selenium, Specflow, Jest, xUnit
+* Frameworks: Cypress, TestCafe, Cucumber, Selenium, Specflow, Jest
 * IDE: Visual Studio 2019, IntelliJ
 * Source-code editors: Atom
 * Database: Microsoft SQL Server Management Studio 17, Oracle SQL Developer, Studio 3T
