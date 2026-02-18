@@ -5,7 +5,7 @@ Certified Software Tester with nearly 8 years of commercial experience, testing 
 
 ## Tech skills
 * Software testing
-* Languages: JavaScript, TypeScript, Python (currently used), C# (used in the past)
+* Languages: JavaScript, TypeScript, Python, C# (currently used)
 * SQL (PostgreSQL)
 * MQL
 * Bash (used in the past)
@@ -16,11 +16,12 @@ Certified Software Tester with nearly 8 years of commercial experience, testing 
 * Source-code editors: Visual Studio Code
 * Database: pgAdmin, MongoDB Compass
 * ALM's: Azure DevOps
+* Version control & tools: Git & Azure DevOps
 * CI/CD: Azure DevOps
 * REST API: Swagger, Postman
 * OS: Windows 11
 * Cloud: Google Cloud Platform
-* Other: Chrome DevTools, Confluence
+* Other: Chrome DevTools, Confluence, SonarQube
 
 ### Tools used in the past:
 * Frameworks: Cypress, TestCafe, Cucumber, Selenium, Specflow, Jest, xUnit
