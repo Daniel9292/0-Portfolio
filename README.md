@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About me
-Certified Software Tester with nearly 8 years of commercial experience, testing both frontend and backend. Working in Scrum team and following Agile rules. I'm oriented for further development as Test Automation Engineer / QA Engineer. By learning and gathering knowledge from many IT areas, I would like to become a cross-functional IT Specialist.
+Certified Software Tester with over 8 years of commercial experience, testing both frontend and backend. Working in Scrum team and following Agile rules. I'm oriented for further development as Test Automation Engineer / QA Engineer. By learning and gathering knowledge from many IT areas, I would like to become a cross-functional IT Specialist.
 
 ## Tech skills
 * Software testing
@@ -14,13 +14,14 @@ Certified Software Tester with nearly 8 years of commercial experience, testing 
 ### Recently used tools:
 * Frameworks: Playwright, k6, Pytest, xUnit
 * Source-code editors: Visual Studio Code
-* Database: pgAdmin, MongoDB Compass
+* Database: pgAdmin (PostgreSQL), MongoDB Compass
 * ALM's: Azure DevOps
 * Version control & tools: Git & Azure DevOps
 * CI/CD: Azure DevOps
 * REST API: Swagger, Postman
 * OS: Windows 11
-* Cloud: Google Cloud Platform
+* Cloud: Google Cloud Platform, Microsoft Azure
+* AI: Github Copilot
 * Other: Chrome DevTools, Confluence, SonarQube
 
 ### Tools used in the past:
@@ -106,6 +107,7 @@ Certified Software Tester with nearly 8 years of commercial experience, testing 
 * [Oh My Dev](https://ohmydev.pl/)
 
 ## Conferences I attended:
+* Infoshare 2026 (20-21.05.2026)
 * Infoshare 2025 (27-28.05.2025)
 * Dev# 2024 (10.10.2024)
 * Infoshare 2024 (22-23.05.2024)
