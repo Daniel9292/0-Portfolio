@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About me
-Certified Software Tester with over 8 years of commercial experience, testing both frontend and backend. Working in Scrum team and following Agile rules. I'm oriented for further development as Test Automation Engineer / QA Engineer. By learning and gathering knowledge from many IT areas, I would like to become a cross-functional IT Specialist.
+Certified Software Tester with over 8 years of commercial experience, testing both frontend and backend. Working in Scrum team and following Agile rules. I'm oriented for further development as a versatile Software Engineer, connecting functions of regular QA Engineer, Test Automation Engineer, Performance Engineer, DevOps Engineer, Data Engineer and AI Engineer.
 
 ## Tech skills
 * Software testing
