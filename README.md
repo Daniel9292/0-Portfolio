@@ -12,7 +12,7 @@ Certified Software Tester with over 8 years of commercial experience, testing bo
 
 ## Tools
 ### Recently used tools:
-* Frameworks: Playwright, k6, Pytest, xUnit
+* Frameworks: Pytest, k6, Playwright, xUnit
 * Source-code editors: Visual Studio Code
 * Database: pgAdmin (PostgreSQL), MongoDB Compass
 * ALM's: Azure DevOps
@@ -21,7 +21,7 @@ Certified Software Tester with over 8 years of commercial experience, testing bo
 * REST API: Swagger, Postman
 * OS: Windows 11
 * Cloud: Google Cloud Platform, Microsoft Azure
-* AI: Github Copilot
+* AI: Github Copilot, Claude
 * Other: Chrome DevTools, Confluence, SonarQube
 
 ### Tools used in the past:
@@ -36,6 +36,7 @@ Certified Software Tester with over 8 years of commercial experience, testing bo
 
 ## Courses & certificates
 ### Certification institutions & companies
+* Google Professional Data Engineer (09.08.2026) _certificate_
 * Google Associate Cloud Engineer (30.06.2025) _certificate_
 * Google Associate Data Practitioner (28.06.2025) _certificate_
 * Exam AI-102: Microsoft Certified: Azure AI Engineer Associate (13.04.2025) _certificate_
@@ -104,9 +105,9 @@ Certified Software Tester with over 8 years of commercial experience, testing bo
 
 ### Other
 * [Tech3camp](https://www.linkedin.com/company/3camp/)
-* [Oh My Dev](https://ohmydev.pl/)
 
 ## Conferences I attended:
+* Dev# 2026 (07.10.2026)
 * Infoshare 2026 (20-21.05.2026)
 * Infoshare 2025 (27-28.05.2025)
 * Dev# 2024 (10.10.2024)
@@ -124,6 +125,7 @@ Certified Software Tester with over 8 years of commercial experience, testing bo
 * 4Developers Gdańsk Edition (25.09.2018)
 
 ## Meetup's and other events I attended:
+* #38 Spotkanie Trójmiejskiej Grupy Testerskiej (21.10.2026)
 * BugHuntFest (online) (03-12.02.2026)
 * Dynamic Talks - Solving Real QA Pains with Playwright Tracing (25.06.2025)
 * #32 Spotkanie Trójmiejskiej Grupy Testerskiej (12.02.2025)
